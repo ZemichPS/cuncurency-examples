@@ -11,7 +11,6 @@ public class FileDownLoader implements Runnable {
         this.fileName = fileName;
     }
 
-
     @Override
     public void run() {
         try {
